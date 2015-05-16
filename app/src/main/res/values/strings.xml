@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Beering</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="list_beers"><![CDATA[List of Beers]]></string>
+    <string name="add_beer"><![CDATA[Add A Beer]]></string>
+    <string name="friend_options"><![CDATA[Friends Options]]></string>
     <string name="action_settings">Settings</string>
 </resources>
