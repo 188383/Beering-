@@ -2,7 +2,8 @@
     <string name="app_name">Beering</string>
 
     <string name="list_beers"><![CDATA[List of Beers]]></string>
-    <string name="add_beer"><![CDATA[Add A Beer]]></string>
+    <string name="add_beer"><![CDATA[Save Location]]></string>
     <string name="friend_options"><![CDATA[Friends Options]]></string>
+    <string name="about"><![CDATA[about]]></string>
     <string name="action_settings">Settings</string>
 </resources>
