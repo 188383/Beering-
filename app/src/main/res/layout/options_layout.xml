@@ -91,15 +91,16 @@
                 android:id="@+id/save_options"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_toLeftOf="@id/cancel_options"
                 android:layout_below="@id/port_text"
+                android:layout_centerHorizontal="true"
                 android:text="@string/save"/>
             <Button
                 android:id="@+id/cancel_options"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/port_text"
-                android:layout_alignParentEnd="true"
+                android:layout_centerHorizontal="true"
+                android:layout_toRightOf="@id/save_options"
                 android:text="@string/cancel"/>
             </RelativeLayout>
         </ScrollView>
